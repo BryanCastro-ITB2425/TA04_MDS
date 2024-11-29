@@ -161,3 +161,16 @@ footer h6, footer .footer-links h5 {
  .volver-btn:hover {
     background-color: #286a82;
  }
+
+ .image-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 40px;
+}
+
+
+.image-container img {
+    width: 320px;
+    height: auto;
+}
